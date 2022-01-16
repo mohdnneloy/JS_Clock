@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+
+    font-family:'Lato';
+    text-align:center;
+    
+    
+}
+
+#clock{
+    background-image: url(104170.jpg);
+    background-size: cover;
+    font-size: 6em;
+    font-weight:200px;
+    color:#ffffff;
+    text-shadow:2px 2px 10px #000000;
+    padding:273px;
+
+}
+
+#hexcolor{
+  color:white;
+}
